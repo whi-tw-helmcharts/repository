@@ -24,5 +24,7 @@ jobs:
 
       - name: Helm Chart Releaser
         uses: helm/chart-releaser-action@v1.3.0
+        with:
+          charts_repo_url: https://charts.whi.tw
         env:
           CR_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
