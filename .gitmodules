@@ -1,3 +1,6 @@
 [submodule "charts/library-chart"]
 	path = charts/library-chart
 	url = http://github.com/whi-tw-helmcharts/library-chart
+[submodule "charts/request-baskets"]
+	path = charts/request-baskets
+	url = http://github.com/whi-tw-helmcharts/request-baskets
