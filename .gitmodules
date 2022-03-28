@@ -1,0 +1,3 @@
+[submodule "charts/library-chart"]
+	path = charts/library-chart
+	url = http://github.com/whi-tw-helmcharts/library-chart
