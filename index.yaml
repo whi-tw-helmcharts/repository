@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  request-baskets:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-28T13:06:22.496704038Z"
+    description: A Helm chart for [darklynx/request-baskets](https://github.com/darklynx/request-baskets)
+    digest: 5ee475748424bd1d59fa8fe37cc4f26cf8666e074e063f7951ea8ccacbb4a98a
+    name: request-baskets
+    type: application
+    urls:
+    - https://github.com/whi-tw-helmcharts/repository/releases/download/request-baskets-0.1.0/request-baskets-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-28T13:06:22.496709338Z"
